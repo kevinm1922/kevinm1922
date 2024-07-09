@@ -8,5 +8,5 @@
 
 💞️ I’m looking to collaborate on projects related to healthcare data analysis, genomics research, and any initiative that requires a robust data-driven approach.
 
-📫 How to reach me: email kevinm1922@gmail.com or connect with me at kevinm1922@gmail.com
+📫 How to reach me: email kevinm1922@gmail.com or connect with me via Linkedin
 
