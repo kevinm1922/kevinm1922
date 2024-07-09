@@ -4,7 +4,7 @@
 
 👀 I’m interested in leveraging data science to develop innovative methods for identifying and interpreting patterns that can enhance business applications. I am particularly passionate about applying data science to healthcare and genomics to drive impactful research and improve patient outcomes.
 
-🌱 I’m currently enhancing my skills in creating advanced data visualizations and developing machine learning models to provide deeper insights from complex datasets. Additionally, I am learning how to optimize SQL queries for performance and efficiency in large-scale data environments.
+🌱 I’m currently enhancing my skills in creating advanced data visualizations and developing machine learning models to provide deeper insights from complex datasets. Additionally, I am constantly learning how to improve and optimize SQL queries for performance and efficiency in large-scale data environments.
 
 💞️ I’m looking to collaborate on projects related to healthcare data analysis, genomics research, and any initiative that requires a robust data-driven approach.
 
